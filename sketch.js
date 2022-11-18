@@ -1,4 +1,5 @@
-let ball, floor;
+
+//let ball, floor;
 
 function setup() {
   createCanvas(400, 400);
